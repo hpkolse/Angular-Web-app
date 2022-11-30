@@ -1,0 +1,20 @@
+[
+    {
+        "image": "../assets/images/mens-shirt.jpg",
+        "title": "Mens Shirt",
+        "alt": "Photo of a Mens Shirt"
+
+    },
+    {
+        "image": "../assets/images/denim.jpg",
+        "title": "Denim Jacket",
+        "alt": "Photo of a Denim Jacket"
+
+    },
+    {
+        "image": "../assets/images/baby-clothes.jpg",
+        "title": "Baby Clothes",
+        "alt": "Photo of a Baby Clothes"
+
+    }
+]

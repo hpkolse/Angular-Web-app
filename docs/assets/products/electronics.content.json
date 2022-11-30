@@ -1,0 +1,20 @@
+[
+    {
+        "image": "../assets/images/watch.jpg",
+        "title": "Watches",
+        "alt": "Photo of a Watch"
+
+    },
+    {
+        "image": "../assets/images/mac.jpg",
+        "title": "Laptop",
+        "alt": "Photo of a Laptop"
+
+    },
+    {
+        "image": "../assets/images/fridge.jpg",
+        "title": "Refrigerator",
+        "alt": "Photo of a Refrigerator"
+
+    }
+]

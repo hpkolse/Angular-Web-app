@@ -1,0 +1,20 @@
+[
+    {
+        "image": "../assets/images/bag.jpg",
+        "title": "Hand Bag",
+        "alt": "Photo of a Hand Bag"
+
+    },
+    {
+        "image": "../assets/images/bracelet.jpg",
+        "title": "Bracelet",
+        "alt": "Photo of a Bracelet"
+
+    },
+    {
+        "image": "../assets/images/glasses.jpg",
+        "title": "Sun Glasses",
+        "alt": "Photo of a Sun Glasses"
+
+    }
+]
