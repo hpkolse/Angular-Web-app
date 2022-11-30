@@ -1,6 +1,18 @@
-# Shopping
+# E-Commerce app using Angular
+
+EStore is an application that allows you to view a list of available products. 
+
+You can view the live project hosted on github pages : https://hpkolse.github.io/Angular-Web-app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Project Motivation
+
+This project demonstarates my Angular skills implementaion to a real time scenario. I have demonstrated various important Angular skills such as:
+- Making use of Angular Reusable Compoonents.
+- Angular Routing
+- Angular Service and making use of HTTP GetClient to fetch data from a dummy JSON file(Could be integrated with a real time api)
+- Following standerd coding practices
 
 ## Development server
 
