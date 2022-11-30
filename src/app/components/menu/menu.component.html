@@ -1,0 +1,7 @@
+<ng-container *ngFor="let data of menuData">
+    <button mat-button class="navigation-title" 
+        [routerLink]="['/landing-page']" 
+        [queryParams]="{'productType': data.routes}">
+        {{data.menuName}}
+    </button>
+</ng-container>
